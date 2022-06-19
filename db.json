@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Japanese Ramen",
+      "restaurant": "Seis",
+      "image": "https://cdn.pixabay.com/photo/2019/11/23/15/26/ramen-4647408_960_720.jpg",
+      "rating": "10",
+      "comment": "Highly recommended",
+      "id": 6
     }
   ]
 }
